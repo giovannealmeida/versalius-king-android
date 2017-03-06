@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2C3E50</color>
+    <color name="colorPrimaryDark">#000</color>
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="colorAccent">#337AB7</color>
+    <color name="colorLink">#F47D67</color>
+    <color name="err_msg">#D50000</color>
+
+    <!--SnackBar-->
+    <color name="snackBackgroundError">#992222</color>
+    <color name="snackBackgroundSuccess">#48AA48</color>
+    <color name="snackBackgroundInfo">#555</color>
+
+    <color name="transparent">#00000000</color>
+</resources>

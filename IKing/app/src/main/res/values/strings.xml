@@ -1,0 +1,209 @@
+<resources>
+
+    <string name="app_name">iKing</string>
+    <string name="action_login">ENTRAR</string>
+    <string name="copyright">© Copyright 2016 VERSALIUS</string>
+    <string name="forgot_password"><u>Esqueceu sua senha?</u></string>
+    <string name="singup"><u>Cadastre-se</u></string>
+    <string name="alter"><u>Alterar</u></string>
+
+    <string name="send"><u>Enviar</u></string>
+    <string name="dont_have_acc">Não possui uma conta?</string>
+
+    <!--Titles-->
+    <string name="title_signup">CADASTRO</string>
+    <string name="title_update">ATUALIZAR</string>
+    <string name="title_edit">Editar</string>
+    <string name="title_profile">PERFIL</string>
+    <string name="title_alter_password">ALTERAR SENHA</string>
+
+    <string name="title_forgot_password">ESQUECEU A SENHA</string>
+    <string name="title_dialog_permission">Permissão requerida</string>
+    <string name="title_crop_activity">Cortar Imagem</string>
+    <string name="title_activity_home">Home</string>
+
+    <!--Hints-->
+
+    <string name="hint_service">Serviço</string>
+    <string name="hint_city">Cidade</string>
+    <string name="hint_city_required">Cidade *</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_email_required">Email *</string>
+    <string name="hint_old_password">Senha Antiga</string>
+    <string name="hint_password">Senha</string>
+    <string name="hint_old_password_required">Senha Antiga*</string>
+    <string name="hint_password_required">Senha *</string>
+    <string name="hint_full_name">Nome Completo *</string>
+    <string name="hint_rg">RG *</string>
+    <string name="hint_passport">Passaporte *</string>
+    <string name="hint_shipping_agent">Orgão Expedidor *</string>
+    <string name="hint_cpf">CPF *</string>
+    <string name="hint_nationality">Nacionalidade</string>
+    <string name="hint_profession">Profissão</string>
+    <string name="hint_street">Rua *</string>
+    <string name="hint_number">Número</string>
+    <string name="hint_neighborhood">Bairro</string>
+    <string name="hint_zip_code">CEP</string>
+    <string name="hint_password_again">Repita a senha</string>
+    <string name="hint_continent">Continente *</string>
+    <string name="hint_country">País *</string>
+    <string name="hint_state">Estado *</string>
+    <string name="hint_birth_date">Data de nascimento *</string>
+    <string name="hint_phone">Telefone *</string>
+    <string name="hint_country_spinner">Selecione um país…</string>
+    <string name="hint_state_spinner">Selecione um estado…</string>
+    <string name="hint_city_spinner">Selecione uma cidade…</string>
+    <string name="hint_booking_number">Número da reserva *</string>
+    <string name="hint_observations">Observações..</string>
+    <string name="hint_suggestions">Sugestões..</string>
+    <string name="hint_amount">Qtd</string>
+
+    <!--Labels-->
+
+    <string name="lb_radio_male">Masculino</string>
+    <string name="lb_radio_female">Feminino</string>
+    <string name="lb_gender">Sexo *</string>
+    <string name="lb_RG">RG</string>
+    <string name="lb_passport">Passaporte</string>
+    <string name="lb_identification">Documento de Identificação *</string>
+    <string name="lb_vehicle_type">Tipo de veículo</string>
+    <string name="lb_travel_motivation">Motivo da viagem</string>
+    <string name="lb_arriving_from">Chegando de</string>
+    <string name="lb_next_destination">Próximo Destino</string>
+    <string name="lb_products_consumed">Produtos Consumidos</string>
+
+    <!--Mensagens de erros-->
+
+    <string name="err_msg_empty_name">Insira o nome completo</string>
+    <string name="err_msg_empty_email">Insira um e-mail válido</string>
+    <string name="err_msg_empty_old_password">Insira uma senha válida</string>
+    <string name="err_msg_empty_identification">Insira o número do documento de identificação</string>
+    <string name="err_msg_empty_shipping_agent">Insira o órgão expedidor</string>
+    <string name="err_msg_empty_cpf">Insira o número do seu CPF</string>
+    <string name="err_msg_empty_nationality">Insira a sua nacionalidade</string>
+    <string name="err_msg_empty_profession">Insira a sua profissão</string>
+    <string name="err_msg_empty_street">Insira o nome da sua rua</string>
+    <string name="err_msg_empty_neighborhood">Insira o nome do seu bairro</string>
+    <string name="err_msg_empty_zipcode">Insira o seu código postal</string>
+    <string name="err_msg_empty_booking_number">Insira o seu número de reserva</string>
+
+    <string name="err_msg_invalid_identification">Número do documento de identificação inválido</string>
+    <string name="err_msg_invalid_cpf">Número do documento de identificação inválido</string>
+    <string name="err_msg_invalid_name">Preencha seu nome corretamente</string>
+    <string name="err_msg_invalid_profession">Preencha sua profissão corretamente</string>
+    <string name="err_msg_invalid_nationality">Preencha sua nacionalidade corretamente</string>
+    <string name="err_msg_invalid_shipping_agent">Orgão expedidor inválido</string>
+    <string name="err_msg_invalid_email">Email inválido</string>
+    <string name="err_msg_invalid_site">Site inválido</string>
+    <string name="err_msg_invalid_facebook">Facebook inválido</string>
+    <string name="err_msg_invalid_twitter">Twitter inválido</string>
+    <string name="err_msg_invalid_birthday">Data de nascimento inválida</string>
+    <string name="err_msg_invalid_phone">Número inválido</string>
+    <string name="err_msg_invalid_booking_number">Número de reserva inválido</string>
+    <string name="err_msg_invalid_quantity">Valor inválido</string>
+
+    <string name="err_msg_must_select_one">Selecione uma opção</string>
+    <string name="err_msg_must_select_city">Selecione uma cidade</string>
+    <string name="err_msg_must_select_continent">Selecione um continente</string>
+    <string name="err_msg_must_select_country">Selecione um país</string>
+    <string name="err_msg_must_select_state">Selecione um estado</string>
+    <string name="err_msg_must_select_product">Selecione um produto</string>
+
+    <string name="err_msg_existing_email">Este email já está em uso</string>
+    <string name="err_msg_password_invalid">Senha inválida</string>
+    <string name="err_msg_no_existing_email">Este email não está cadastrado</string>
+    <string name="err_msg_existing_cpf">Este CPF já está em uso</string>
+    <string name="err_msg_city">Insira uma cidade</string>
+    <string name="err_msg_short_password">A senha deve possuir de 6 a 22 caracteres</string>
+    <string name="err_msg_dont_match_password">As senhas não são iguais</string>
+    <string name="err_msg_server_fail">Houve uma falha. Tente novamente mais tarde.</string>
+
+    <!-- Mensagens Caixas de Diálogo -->
+
+    <string name="dialog_permission_agree_button">Ok</string>
+    <string name="dialog_permission_disagree_button">Cancelar</string>
+
+    <!-- Itens do drawer -->
+    <string name="item_profile">Perfil</string>
+    <string name="item_alter_password">Alterar Senha</string>
+    <string name="item_delete_account">Excluir Conta</string>
+    <string name="item_logout">Sair</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_forgot_password">ForgotPasswordActivity</string>
+    <string name="title_activity_profile_acitvity">ProfileAcitvity</string>
+    <string name="title_activity_alter_password">AlterPasswordActivity</string>
+
+    <!--State Array-->
+    <string-array name="array_states">
+        <item>Selecione um estado…</item> <!-- Valor default -->
+        <item>Acre</item>
+        <item>Alagoas</item>
+        <item>Amapá</item>
+        <item>Amazonas</item>
+        <item>Bahia</item>
+        <item>Ceará</item>
+        <item>Distrito Federal</item>
+        <item>Espírito Santo</item>
+        <item>Goiás</item>
+        <item>Maranhão</item>
+        <item>Mato Grosso</item>
+        <item>Mato Grosso do Sul</item>
+        <item>Minas gerais</item>
+        <item>Pará</item>
+        <item>Paraíba</item>
+        <item>Paraná</item>
+        <item>Pernambuco</item>
+        <item>Piauí</item>
+        <item>Rio de Janeiro</item>
+        <item>Rio Grande do Norte</item>
+        <item>Rio Grande do Sul</item>
+        <item>Rondônia</item>
+        <item>Roraima</item>
+        <item>Santa Catarina</item>
+        <item>São Paulo</item>
+        <item>Sergipe</item>
+        <item>Tocantins</item>
+
+    </string-array>
+    <string-array name="array_states_id">
+        <item>0</item> <!-- Valor default -->
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+    </string-array>
+
+</resources>

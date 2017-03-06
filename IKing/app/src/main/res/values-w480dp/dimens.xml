@@ -1,0 +1,6 @@
+<resources>
+    <!-- 5X 1080x1920 -->
+    <dimen name="activity_login_horizontal_margin">60dp</dimen>
+    <dimen name="small_link">14sp</dimen>
+    <dimen name="big_link">16sp</dimen>
+</resources>
